@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PRDKMQNS
 
 [Document2]
-DocumentPath=STM32_F405.SchDoc
+DocumentPath=STM32F405.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1076,7 +1076,7 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
